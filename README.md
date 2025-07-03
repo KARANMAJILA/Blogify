@@ -1,12 +1,44 @@
-# React + Vite
+# 📝 Blogify - AI Powered Blog Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Blogify is a modern, full-featured **AI-powered blog platform** built with the **MERN stack (MongoDB, Express, React, Node.js)**. It allows users to create, edit, and manage blogs with the help of AI tools for content generation, grammar correction, SEO optimization, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✍️ **AI Blog Writing** – Generate blog content using AI (OpenAI/GPT APIs).
+- ✅ **User Authentication** – Secure login/signup with JWT and hashed passwords.
+- 📚 **Blog CRUD Operations** – Create, Read, Update, Delete blogs.
+- 📊 **Dashboard** – Personalized user dashboard to manage posts.
+- 🔍 **SEO Optimization** – AI-enhanced SEO tags and summaries.
+- 📦 **Rich Text Editor** – Markdown or WYSIWYG support for editing.
+- 🖼️ **Image Upload** – Upload blog cover images using Cloudinary or local storage.
+- 🔒 **Protected Routes** – Only authorized users can access dashboard & edit blogs.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack
+
+### 🖥️ Frontend – React
+- React.js
+- React Router DOM
+- Axios
+- Tailwind CSS / Material UI (optional)
+- Toast notifications
+
+### 🌐 Backend – Node.js + Express
+- Express.js
+- MongoDB + Mongoose
+- JSON Web Tokens (JWT)
+- Bcrypt for password hashing
+
+### 🤖 AI Integration
+- OpenAI API (or similar)
+  - Content Generation
+  - Grammar Suggestions
+  - Headline/Tag Suggestions
+
+---
+
+
+
