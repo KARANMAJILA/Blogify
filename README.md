@@ -1,4 +1,4 @@
-# 📝 Blogify - AI Powered Blog Platform
+# 📝 QuickBLog- AI Powered Blog Platform
 
 Blogify is a modern, full-featured **AI-powered blog platform** built with the **MERN stack (MongoDB, Express, React, Node.js)**. It allows users to create, edit, and manage blogs with the help of AI tools for content generation, grammar correction, SEO optimization, and more.
 
